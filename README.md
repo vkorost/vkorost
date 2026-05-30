@@ -1,4 +1,3 @@
-Three decades in software development, along the path from individual contributor to team lead to engineering manager. 
 I mostly build things I want to use, so there are no half-baked proofs of concept here: every repository contains something I shared only after using it myself.
 
 ## Books built with Claude Code
