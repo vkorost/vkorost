@@ -29,7 +29,7 @@ Embedded HTTP servers that expose a running desktop application's UI to AI agent
 - [java-swing-mcp](https://github.com/vkorost/java-swing-mcp): structured agent access to any Java Swing application: component tree, element state, executable actions, screenshots, and WCAG contrast checks.
 - [wpf-mcp](https://github.com/vkorost/wpf-mcp): the same pattern for WPF via the UI Automation API; built to develop and debug [ytubefetch](https://github.com/vkorost/ytubefetch).
 
-## Other tools I use
+## Misc
 
 - [lightroom-auto-settings-plugin](https://github.com/vkorost/lightroom-auto-settings-plugin): batch-applies Transform Auto and Auto Settings in Lightroom Classic, an action Adobe never exposed to the SDK; run on every new set of photos.
 - [claude-standup-skills](https://github.com/vkorost/claude-standup-skills): seven comedian-voice Claude skills, used for voice rotation in a daily news briefing.
