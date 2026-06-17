@@ -40,6 +40,14 @@ A self-running daily news briefing and the comedian voices it closes with.
 - [lightroom-auto-settings-plugin](https://github.com/vkorost/lightroom-auto-settings-plugin): batch-applies Transform Auto and Auto Settings in Lightroom Classic, an action Adobe never exposed to the SDK; run on every new set of photos.
 - [lightroom-geotag-timeline-plugin](https://github.com/vkorost/lightroom-geotag-timeline-plugin): adds GPS coordinates and location names (city, state, country) to photos using your Google Timeline location history, this is for people who have cameras without built-in GPS.
 
+## Audio
+
+A small audio toolchain. Each tool stands alone; chained together they turn a folder of MP3s into a finished offline radio station.
+
+- [mp3-norm](https://github.com/vkorost/mp3-norm): loudness-normalize a folder (EBU R128) so no track is louder or quieter than the next.
+- [mp3-trim](https://github.com/vkorost/mp3-trim): detect where the music ends and cut the trailing non-music (talk, applause, dead air) off the tail of each file; music in the middle is left untouched.
+- [mp3-radio](https://github.com/vkorost/mp3-radio): the capstone. Turns a folder of MP3s into an offline radio station: writes a comedian-voiced DJ intro for every track, renders each to speech, and assembles an ordered folder any screenless player can play. Uses [claude-standup-skills](https://github.com/vkorost/claude-standup-skills) for the rotating DJ personas.
+
 ## A note on platforms
 
 Everything here exists because I needed it and I use all of it, but only on my own setup: Windows and Android, plus the readers and tablets I own. None of it has been tested on macOS, iOS, Linux or other platforms. If you want to run one of these somewhere I have not, the quickest route is to hand the repo to Claude Code, Codex, or whatever agent you use and have it adapt the project to your environment.
