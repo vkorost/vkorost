@@ -1,5 +1,3 @@
-I mostly build things I want to use, so there are no half-baked proofs of concept here: every repository contains something I shared only after using it myself.
-
 ## Books built with Claude Code
 
 I wanted a long, up-to-date read on each of these subjects, could not find one, so I had to build it.
