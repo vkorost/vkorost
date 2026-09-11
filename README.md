@@ -20,6 +20,7 @@ These tools have one purpose: produce data in Markdown for easy LLM digestion.
 - [pdf2md](https://github.com/vkorost/pdf2md): PDF to Markdown, auto-routing per page between text extraction and OCR; batch mode.
 - [ebook2md](https://github.com/vkorost/ebook2md): EPUB, PDF, FB2, and DJVU to clean Markdown, in batch.
 - [ytubefetch](https://github.com/vkorost/ytubefetch): Windows app for batch-downloading YouTube subtitles as AI-ready transcripts. Also fetches audio and video if needed.
+- [mp3-transcribe](https://github.com/vkorost/mp3-transcribe): local transcription of audio where subtitles are not available, with each speaker labeled.
 
 ## MCP servers
 
