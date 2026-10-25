@@ -25,6 +25,13 @@ These tools have one purpose: produce data in Markdown for easy LLM digestion.
 - [ytubefetch](https://github.com/vkorost/ytubefetch): Windows app for batch-downloading YouTube subtitles as AI-ready transcripts. Also fetches audio and video if needed.
 - [mp3-transcribe](https://github.com/vkorost/mp3-transcribe): local transcription of audio where subtitles are not available, with each speaker labeled.
 
+## Laser dry-fire training
+
+A game, and the book-length research that came before it. The book surveys everybody else's products; the app is what I built after reading it.
+
+- [screenplink](https://github.com/vkorost/screenplink): a laser dry-fire shooting game where the target is the matte monitor you already own. A 60fps webcam watches the screen from one side, and a laser trainer pistol leaves bullet holes where you hit. Nine drills, a seventeen-round magazine, a score that is points per second, and a two-player split screen.
+- [laser-dry-fire-field-guide](https://github.com/vkorost/laser-dry-fire-field-guide) (Laser Training for Home Shooters): a Q4 2026 survey of the laser dry-fire category across 16 chapters: the apps, the targets, the sensors and what the scoring and the timers actually measure. Built from vendor documentation and owner reports, with every claim traced to the page it came from.
+
 ## MCP servers
 
 Embedded HTTP servers that expose a running desktop application's UI to AI agents as structured JSON: the desktop equivalent of browser DevTools.
