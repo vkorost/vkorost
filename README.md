@@ -1,4 +1,4 @@
-![Vladimir Korostyshevskiy — AI-generated books, software and apps](./vkorost-social-1280x640-collage-v3.jpg)
+[![Vladimir Korostyshevskiy — AI-generated books, software and apps](./vkorost-social-1280x640-collage-v3.jpg)](https://github.com/vkorost)
 
 ## Books built with Claude Code
 
