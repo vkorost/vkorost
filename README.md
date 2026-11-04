@@ -1,3 +1,5 @@
+![Vladimir Korostyshevskiy — AI-generated books, software and apps](./vkorost-social-1280x640-collage-v3.jpg)
+
 ## Books built with Claude Code
 
 I wanted a long, up-to-date read on each of these subjects, could not find one, so I had to build it.
